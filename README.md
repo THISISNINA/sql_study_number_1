@@ -1,4 +1,4 @@
-## This is what I studied to learn SQL. Part 1
+## This is what I studied to learn SQL. (Part 1)
 
 # Retail Sales Analysis SQL Project
 
